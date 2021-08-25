@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- This is the first assignment of CMPT 276, and the professor is Dr.Fraser.
+- This is the first assignment of CMPT 276, and the professor is Dr. Fraser.
 
 - This assignment is to implement a lens calculator program which is written on Java.
 
